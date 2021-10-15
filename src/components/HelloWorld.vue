@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>hello master</h2>
+    <h2>hello devlop02</h2>
   </div>
 </template>
 
@@ -10,6 +10,6 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 
 </style>

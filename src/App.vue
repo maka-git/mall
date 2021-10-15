@@ -1,5 +1,8 @@
 <template>
   <div id="app">
+    <div class="hh">world
+      <div class="ww">hello</div>
+    </div>
     <HelloWorld/>
   </div>
 </template>
@@ -16,5 +19,10 @@ export default {
 </script>
 
 <style>
-
+.hh{
+  font-size: 10px;
+  /* .ww{
+    font-size: 15px;
+  } */
+}
 </style>
